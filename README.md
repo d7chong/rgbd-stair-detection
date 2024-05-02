@@ -1,6 +1,6 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-blue.svg)](https://devdocs.io/cpp/) [![CMake](https://img.shields.io/badge/CMake-green.svg)](https://cmake.org/) [![ROS](https://img.shields.io/badge/ROS-ff6f61.svg)](http://www.ros.org/) [![PCD](https://img.shields.io/badge/Point%20Cloud%20Data-blue.svg)](https://pointclouds.org/) [![Ubuntu 18.04](https://img.shields.io/badge/Ubuntu%2018.04-orange.svg)](https://releases.ubuntu.com/18.04/)
 
-# stair-detection
+# rgbd-stair-detection
 
 <p align="center">
     <img src="imgs/stairs-ascending-final-demo.gif" alt="Ascending stairs demo" width="600">
